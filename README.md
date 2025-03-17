@@ -14,20 +14,36 @@ The OLSK Small CNC V3 is a desktop CNC milling machine with an innovative open-s
 <img src="media/OLSK_Small_CNC_V3_Highlights_low-res.jpg" width="100%">
 
 
-The Assembly Workbook
+The Assembly Manual
 --
 
-All OLSK machines are open source and have the BOM and necessary files available in this repository for replication. The assembly of parts is also documented in a workbook where each step contains a list of parts, tools and instruction remarks, following a logic order to provide a smooth assembly.
+All OLSK machines are open source and have the BOM and necessary files available in this repository for replication. The assembly of parts is also documented in a workbook where each step contains a list of parts, tools and instruction remarks, following a logical order to provide a smooth assembly.
 
 - **[Assembly Manual](https://open-lab-starter-kit.github.io/OLSK-Small-CNC/)**
 
+Specifications V3
+--
+
+- Automatic tool changer (capacity: 10 tools)
+- Automatic tool measurement
+- Automatic tool cleaning
+- Coolant System
+- Integrated liftable full-enclosed housing
+- Flush-mounted 24V emergency stop
+- Key Operated
+- Universal bed (fixture clamping and vacuum)
+- Closed Loop DC Servo Motors
+- Belt decoupling on all axes
+- Mounted touch screen
+- Software: OLOS
 
 Files
 --
 
 - **[CAD](cad)**
 - **[Firmware](firmware)**
-- **[Wiring Schematic](OLSK_Small_CNC V3_WiringSchematic.pdf)**
+- **[Settings](settings)**
+- **[Wiring Schematic](OLSK_Small_CNC_V3_WiringSchematic.pdf)**
   
 Author
 --
@@ -72,6 +88,12 @@ Assembly manual, pictures, videos, presentations, description text and other typ
 
 Previous Version
 --
+
+The previous versions of OLSK machines will always be available.
+
+**[OLSK Small CNC Milling Machine V2](OLSK_Small_CNC_V1)**
+<br> <br>
+<img src="media/OLSK_Small_CNC_V2_1_low-res.png" width="30%">
 
 **[OLSK Small CNC Milling Machine V1](OLSK_Small_CNC_V1)**
 <br> <br>
