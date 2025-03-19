@@ -43,6 +43,7 @@ Files
 - **[CAD](cad)**
 - **[Firmware](firmware)**
 - **[Settings](settings)**
+- **[BOM](OLSK_Small_CNC_V3-BOM.xlsx)**
 - **[Wiring Schematic](OLSK_Small_CNC_V3_WiringSchematic.pdf)**
   
 Author
